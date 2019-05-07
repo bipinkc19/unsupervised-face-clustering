@@ -1,7 +1,7 @@
 # Unsupervised people separator from photos
 
 Can be used as a huge time saving tools in labeling images by face eg. creating a dataset of face recognition.<br><br>
-Seperates images of different people in different folders by unsupervised learning so that you can send all of the photos if your friend who keeps on saying "ऐ मेरो सबै फोतो पठाईदे ह तेरो मोबाइलको।" (Send all my photos to your on phone.)
+Seperates images of different people in different folders by unsupervised learning so that you can send all of the photos if your friend who keeps on saying "ऐ मेरो सबै फोतो पठाईदे ह तेरो मोबाइलको।" (Send all my photos to your on phone.) ** ```Literal google translate```
 <br><br>
 Best works in one person per image
 
