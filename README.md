@@ -8,7 +8,7 @@ Best works in one person per image
 
 ## Methodology
 
-Uses face detection modules to ectract only face then gets embeddings from the cropped face. These embeddings are then used to do unsupervised clustering through which large amount of images are clustered and seperated according to people in it.
+Uses face detection modules to extract only face then gets embeddings from the cropped face. These embeddings are then used to do unsupervised clustering through which large amount of images are clustered and seperated according to people in it.
 
 ## To run
 
